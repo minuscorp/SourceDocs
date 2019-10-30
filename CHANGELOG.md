@@ -9,6 +9,16 @@
 #### Bug Fixes
 - None
 
+## 0.6.0
+
+#### Breaking
+- None
+
+#### Enhancements
+- Adds `--min-acl` parameter to determine the minimum access level of the objects to be documented.
+
+#### Bug Fixes
+- Fix issues with building 5.1 packages and Xcode 11 projects.
 
 ## 0.5.1
 
